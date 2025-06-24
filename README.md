@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello, I'm Darren!
 
+I am a computer science graduate from Cal Poly Pomona. I am considering going back for a Masters in Information Security.
+## :link: Important links
+[__Linkedin__](https://www.linkedin.com/in/darren-nguyen-181531188/) • [__Website__](https://darrennguyen25-portfolio.vercel.app/)
 <!--
 **darrennguyen25/darrennguyen25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
