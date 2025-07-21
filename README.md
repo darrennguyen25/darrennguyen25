@@ -1,6 +1,6 @@
 ## Hello, I'm Darren!
 
-I am a computer science graduate from Cal Poly Pomona. I am considering going back for a Masters in Information Security.
+I am an incoming Masters in Information Security student at Cal Poly Pomona. I also received my Bachelors in Computer Science from there.
 ## :link: Important links
 [__Linkedin__](https://www.linkedin.com/in/darren-nguyen-181531188/) • [__Website__](https://darrennguyen25-portfolio.vercel.app/)
 <!--
