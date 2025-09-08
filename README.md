@@ -1,6 +1,6 @@
 ## Hello, I'm Darren!
 
-I am a Computer Science graduate and incoming Masters in Information Security student at Cal Poly Pomona.
+I am a Computer Science graduate and current Masters in Information Security student at Cal Poly Pomona.
 ## :link: Important links
 [__Linkedin__](https://www.linkedin.com/in/darren-nguyen-181531188/) • [__Website__](https://darrennguyen25-portfolio.vercel.app/)
 <!--
