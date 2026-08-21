@@ -2,7 +2,7 @@
 
 I am a current Masters in Information Security student at Cal Poly Pomona. I also received my Bachelor's in Computer Science from there. 
 ## :link: Important links
-[__Linkedin__](https://www.linkedin.com/in/darren-nguyen-181531188/) • [__Resume__](https://drive.google.com/file/d/1l86aeC-rSvhfTcIu6SQm_nFjuEPG-jYJ/view?usp=sharing)
+[__Linkedin__](https://www.linkedin.com/in/darren-nguyen-181531188/) • [__Resume__](https://drive.google.com/file/d/1z9dcsv8Be3uh_EiB-vtR0a9E0fziOBmN/view?usp=sharing)
 <!--
 **darrennguyen25/darrennguyen25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
