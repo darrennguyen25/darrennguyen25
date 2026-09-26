@@ -1,8 +1,11 @@
 ## Hello, I'm Darren!
 
-I am a current Masters in Information Security student at Cal Poly Pomona. I also received my Bachelor's in Computer Science from there. 
+- Masters in Information Security student @ Cal Poly Pomona. Bachelor's in Computer Science CPP Alumni
+- Interested in Offensive Security/Red Team Consulting and Security Operations
+- CPTC Competitor 
+
 ## :link: Important links
-[__Linkedin__](https://www.linkedin.com/in/darren-nguyen-181531188/) • [__Resume__](https://drive.google.com/file/d/1v7UEN9QJkckiu0LpwyZjsoW2bS6vePhV/view?usp=sharing)
+[__Linkedin__](https://www.linkedin.com/in/darren-dd-nguyen/) • [__Resume__](https://drive.google.com/file/d/1xZd0n3Crvfi-KcPqAybtIvPdu9V00b5H/view?usp=sharing)
 <!--
 **darrennguyen25/darrennguyen25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
