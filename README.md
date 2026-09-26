@@ -5,7 +5,7 @@
 - CPTC Competitor 
 
 ## :link: Important links
-[__Linkedin__](https://www.linkedin.com/in/darren-dd-nguyen/) • [__Resume__](https://drive.google.com/file/d/1xZd0n3Crvfi-KcPqAybtIvPdu9V00b5H/view?usp=sharing)
+[__Linkedin__](https://www.linkedin.com/in/darren-dd-nguyen/) • [__Resume__](https://drive.google.com/file/d/1ec_sP_9oxgNQlcsCeree4ueguZYdgIIC/view?usp=sharing)
 <!--
 **darrennguyen25/darrennguyen25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
